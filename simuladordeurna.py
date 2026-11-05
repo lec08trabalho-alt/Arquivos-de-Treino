@@ -10,6 +10,7 @@ def introdução():
     print("-"*60)
 introdução()
 print("Números dos candidatos: 01,02,03(Coloque o 0 para funcionar)")
+sleep(5)
 clean()
 introdução()
 zeta = "Candidato: __" 
